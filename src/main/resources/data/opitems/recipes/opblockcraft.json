@@ -1,0 +1,37 @@
+{
+  "group": "opitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    }
+  ],
+  "result": {
+    "item": "opitems:opblock",
+    "count": 1
+  }
+}

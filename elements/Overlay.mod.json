@@ -1,0 +1,23 @@
+{
+  "_fv": 15,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Puffy Cloud",
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "name": "Puffy Cloud",
+          "x": 179,
+          "y": 207
+        }
+      }
+    ],
+    "baseTexture": ""
+  }
+}

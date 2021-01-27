@@ -1,0 +1,28 @@
+{
+  "_fv": 15,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "opfoodtex",
+    "customModelName": "Normal",
+    "name": "Opfood",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "op food"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Tab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 1000,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

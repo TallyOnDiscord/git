@@ -1,0 +1,17 @@
+{
+  "_fv": 15,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "helmet",
+    "name": "Music",
+    "description": "PANADA DIE",
+    "creativeTab": {
+      "value": "MATERIALS"
+    },
+    "music": {
+      "value": "entity.panda.death"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

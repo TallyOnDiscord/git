@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "opitems:blocks/opblock",
+    "up": "opitems:blocks/opblock",
+    "north": "opitems:blocks/opblock",
+    "east": "opitems:blocks/opblock",
+    "south": "opitems:blocks/opblock",
+    "west": "opitems:blocks/opblock",
+    "particle": "opitems:blocks/opblock"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "opitems:block/d_iamo_portal_ew"
+    },
+    "axis=x": {
+      "model": "opitems:block/d_iamo_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "opitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 64
+  }
+}

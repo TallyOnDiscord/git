@@ -1,0 +1,19 @@
+{
+  "group": "opitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "item": "opitems:opingot"
+    }
+  ],
+  "result": {
+    "item": "opitems:opfood",
+    "count": 1
+  }
+}

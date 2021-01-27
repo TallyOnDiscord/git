@@ -1,0 +1,37 @@
+{
+  "group": "opitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "minecraft:wooden_sword"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    }
+  ],
+  "result": {
+    "item": "opitems:overpower_ed",
+    "count": 1
+  }
+}

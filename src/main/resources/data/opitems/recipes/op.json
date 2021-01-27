@@ -1,0 +1,37 @@
+{
+  "group": "opitems",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "minecraft:wooden_pickaxe"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    },
+    {
+      "item": "opitems:opingot"
+    }
+  ],
+  "result": {
+    "item": "opitems:overpoweredpa",
+    "count": 1
+  }
+}

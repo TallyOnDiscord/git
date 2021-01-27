@@ -1,0 +1,12 @@
+{
+  "_fv": 15,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "F8",
+    "keyBindingName": "Open GUI",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "OpenGUIOnKeyPressed"
+    }
+  }
+}

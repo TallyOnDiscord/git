@@ -1,0 +1,379 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Overlay",
+      "type": "overlay",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "overlay"
+    },
+    {
+      "name": "GUI",
+      "type": "gui",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui"
+    },
+    {
+      "name": "OpenGUIOnKeyPressed",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "open_gui_on_key_pressed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OpenGUI",
+      "type": "keybind",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "open_gui"
+    },
+    {
+      "name": "DSword",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_sword"
+    },
+    {
+      "name": "CDiamond",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "c_diamond"
+    },
+    {
+      "name": "CGold",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "c_gold"
+    },
+    {
+      "name": "CIron",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "c_iron"
+    },
+    {
+      "name": "OVERPOWEREd",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "overpower_ed"
+    },
+    {
+      "name": "SwordCraft",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sword_craft"
+    },
+    {
+      "name": "OVERPOWEREDPA",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "overpoweredpa"
+    },
+    {
+      "name": "Music",
+      "type": "musicdisc",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "music"
+    },
+    {
+      "name": "Diamondsixfour",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamondsixfour"
+    },
+    {
+      "name": "Cole",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cole"
+    },
+    {
+      "name": "DIamo",
+      "type": "dimension",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_iamo",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Tab",
+      "type": "tab",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tab"
+    },
+    {
+      "name": "OPBLOCK",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opblock"
+    },
+    {
+      "name": "OP",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "op"
+    },
+    {
+      "name": "Opingot",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opingot"
+    },
+    {
+      "name": "Opblockcraft",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opblockcraft"
+    },
+    {
+      "name": "Opblocktoingot",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opblocktoingot"
+    },
+    {
+      "name": "OPwep",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "o_pwep",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OPAXE",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaxe"
+    },
+    {
+      "name": "OPSHOVEL",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opshovel"
+    },
+    {
+      "name": "OPS",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ops"
+    },
+    {
+      "name": "OPA",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opa"
+    },
+    {
+      "name": "OPADVANCEMENT",
+      "type": "achievement",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opadvancement"
+    },
+    {
+      "name": "Opfuel",
+      "type": "fuel",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opfuel"
+    },
+    {
+      "name": "Opbiome",
+      "type": "biome",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opbiome"
+    },
+    {
+      "name": "OpRec",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "op_rec"
+    },
+    {
+      "name": "Opfood",
+      "type": "food",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opfood"
+    },
+    {
+      "name": "Opfoodcraft",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opfoodcraft"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.opadvancement.descr": "Op as fuck advancenent",
+      "item.easycrafting.music": "Music",
+      "biome.easycrafting.opbiome": "Opbiome",
+      "block.opitems.opblock": "OPBLOCK",
+      "item.opitems.d_iamo": "DADDYLIGHTER",
+      "item.opitems.opshovel": "OPSHOVEL",
+      "item.opitems.opingot": "Opingot",
+      "item.opitems.overpower_ed": "OPSWORD",
+      "item.easycrafting.opfood": "Opfood",
+      "item.opitems.overpoweredpa": "OPPICK",
+      "item.easycrafting.opaxe": "OPAXE",
+      "advancements.opadvancement.title": "OPADVANCEMENT",
+      "item.easycrafting.d_iamo": "DADDYLIGHTER",
+      "item.opitems.opaxe": "OPAXE",
+      "item.opitems.music": "Music",
+      "item.opitems.music.desc": "PANADA DIE",
+      "key.mcreator.open_gui": "Open GUI",
+      "item.opitems.opfood": "Opfood",
+      "item.easycrafting.music.desc": "PANADA DIE",
+      "biome.opitems.opbiome": "Opbiome",
+      "item.easycrafting.opshovel": "OPSHOVEL",
+      "block.easycrafting.opblock": "OPBLOCK",
+      "item.easycrafting.overpoweredpa": "OPPICK",
+      "item.easycrafting.opingot": "Opingot",
+      "item.easycrafting.overpower_ed": "OPSWORD",
+      "itemGroup.tabtab": "OP"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "opitems",
+    "modName": "OPItems",
+    "version": "1.0.0",
+    "author": "Kye Gillatt",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.easycrafting",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

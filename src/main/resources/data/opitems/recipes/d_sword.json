@@ -1,0 +1,16 @@
+{
+  "group": "opitems",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_block",
+    "count": 5
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_fv": 15,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Easy Crafting",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Easy Crafting",
+          "x": 180,
+          "y": 48
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Made by Kyegillatt/Dannyg82",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Made by Kyegillatt/Dannyg82",
+          "x": 151,
+          "y": 96
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "OP",
+          "onClick": {
+            "name": "OPwep"
+          },
+          "width": 35,
+          "height": 20,
+          "name": "OP",
+          "x": 195,
+          "y": 129
+        }
+      }
+    ]
+  }
+}
